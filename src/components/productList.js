@@ -8,7 +8,7 @@ export default class ProductList extends Component {
   render() {
     return(
       <React.Fragment>
-        <Title name="Pat's" title="eCommerce Site"/>
+        <Title name="Road to Hire" title="eCommerce Site"/>
 
      <div className="row">
       <ProductConsumer>
